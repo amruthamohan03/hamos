@@ -1,0 +1,26 @@
+.datepicker td, .datepicker th {
+  padding: 6px;
+}
+
+.datepicker .datepicker-switch {
+  font-weight: 600;
+}
+
+.datepicker .today-btn {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.datepicker-dropdown {
+  padding-bottom: 40px;
+}
+.datepicker .today-btn {
+    position: absolute;
+    right: 8px;
+    bottom: 5px;
+    padding: 3px 10px;
+    font-size: 12px;
+    border-radius: 4px;
+    z-index: 9999;
+}
+
